@@ -1,3 +1,4 @@
-# Helon's favorite game
+# Helon's favorite games
 
 TETRIS
+Mario Kart
